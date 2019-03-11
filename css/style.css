@@ -1,0 +1,63 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+#sec-home h4{
+	text-align: left;
+}
+
+#sec-home{
+	background-image: url(../img/home-header-bg.jpg);
+	padding: 50px 0;
+	padding-bottom: 350px; 
+}
+
+#sec-home{
+	color: #FFFFFF
+}
+
+
+#sec-home boton{
+	position: left
+}
+
+#sec-coaches{
+	padding: 50px 0px;
+	color: #000000;
+	text-align: center;
+}
+
+#sec-coaches p{
+	color: #7e7979;
+}
+	
+	
+#sec-coaches h1{
+	margin-bottom: 50px;
+	font-size: 50px;
+}
+
+#sec-about{
+	padding: 50px 0;
+}
+
+#sec-about h3{
+	margin-top: 40px;
+}
+
+#sec-about p{
+	color:C
+}
+
+#sec-gallery{
+	padding: 30px 0;
+}
+
+
+footer{
+	padding: 50px 0;
+	color: #FFFFFF;
+	background-color: #7e7979;
+	text-align: center;
+}
